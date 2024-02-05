@@ -1,7 +1,7 @@
 # MG-Dockyard-Cleaner
 Author : Reliant Robin
 
-Please do not reposted on other sites without asking me first, Thanks.
+Please do not repost on other sites without asking me first, Thanks.
 
 [HOW TO INSTALL]:
 1. Insure you have ModUtils Installed before installing this mod.
